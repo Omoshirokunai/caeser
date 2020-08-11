@@ -18,4 +18,7 @@ Hides (poorly) your shift operator
 
 Choose to encrypt or decrypt
 
-code is Not OOP :( 
+
+Note:
+
+code is Not Object-Oriented :( 
