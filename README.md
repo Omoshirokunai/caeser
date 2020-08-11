@@ -18,3 +18,5 @@ Takes a message input
 Hides (poorly) your shift operator
 
 Choose to encrypt or decrypt
+
+code is Not OOP :( 
