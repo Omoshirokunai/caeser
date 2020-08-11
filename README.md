@@ -1,5 +1,4 @@
-# caeser
-# Simple Caesar cipher Application
+# Simple Caesar Cipher Application
 
 Using tkinter to show how a
 [caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
