@@ -5,6 +5,9 @@ Using tkinter to show how a
 works.
 
 ## CCipher_Terminal
+
+![Annotation 2020-08-12 172618](https://user-images.githubusercontent.com/65668668/90041283-ffb36580-dcc0-11ea-8d22-07a72b302791.png)
+
 Terminal application
 
 Required to input a message, your shift operator and given the choice to encrypt(e) to decrypt(d) the message.
